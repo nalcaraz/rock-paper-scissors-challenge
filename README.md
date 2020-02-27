@@ -1,4 +1,4 @@
-# Front-end - Rock, Paper, Scissors Challenge
+# Front-end: Rock, Paper, Scissors Challenge
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
