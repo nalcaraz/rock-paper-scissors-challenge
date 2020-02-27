@@ -21,8 +21,9 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - Scissors beats Paper
 
 ### Bonus
-- Use CSS Animation when displaying the user's and computer's selection.
+- Use CSS Animation on selection of weapon.
 - Don't use a CSS framework (No bootstrap, Tailwind CSS, etc.)
+- Even though we allow libraries, try to rely as little as possible on third-party libraries. As our main focus is your own code.
 
 #### Extra Time
 Build Rock, Paper, Scissors, Lizard, Spock against the computer.
@@ -49,5 +50,8 @@ The designs are in JPG static format. This will mean that you'll need to use you
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+
+## Submission
+Fork this repository and send us a pull request. We'll review it and get back to you.
 
 **Have fun building!** 🚀
